@@ -5,6 +5,7 @@ This is a solution to the Fylo dark theme landing page For the Frontend Mentor c
 ## Table of contents
 
 - [Overview](#overview)
+- [Acknowledgments](#acknowledgments)
   - [The challenge](#the-challenge)
   - [Links](#links)
 - [My process](#my-process)
@@ -12,8 +13,8 @@ This is a solution to the Fylo dark theme landing page For the Frontend Mentor c
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+   - [Author](#author)
+
 
 ## Overview
 
@@ -62,11 +63,11 @@ Youtube Vides by  "easy Tutorials"
 
 Although the development process was a collaborative effort we would like to thank the following persons for their input and work that helped create a success website.
 
-Team Lead-Favour Emmanuel 
-Assistant - Gabriel
-member_Prudence
-member_Oluebubechukwu
-member_Adorable
-member_Mark
-member_Elizabeth
+Team Lead-Favour Emmanuel (Worked on the Structure,styling and hosting on Github account
+Assistant - Gabriel (worked our Readme.md file)
+member_Prudence (worked on the structure,styling and readme.nd file)
+member_Oluebubechukwu (Did an exceptional work on the structure/syles and responsiveness with media query)
+member_Adorable (very supportive, also worked on part of the Html/css sections)
+member_Mark (worked on the part of the landing page with html and css codes)
+member_Elizabeth (made suggestions and contributed to achieving a well structured layout)
 
