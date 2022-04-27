@@ -55,18 +55,18 @@ Youtube Vides by  "easy Tutorials"
 ## Author
 
 - 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - mentor@Sidehustle
 - 
 
 ## Acknowledgments
 
 Although the development process was a collaborative effort we would like to thank the following persons for their input and work that helped create a success website.
 
-Team Lead-Favour Emmanuel for creating the website
+Team Lead-Favour Emmanuel 
 Assistant - Gabriel
-member - Prudence
-member - Oluebubechukwu
-member -Adorable
-member -Mark
-member - Elizabeth
+member_Prudence
+member_Oluebubechukwu
+member_Adorable
+member_Mark
+member_Elizabeth
 
