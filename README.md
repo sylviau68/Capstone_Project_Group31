@@ -26,7 +26,7 @@ Team Lead-Favour Emmanuel (Worked on the Structure,styling and hosting on Github
 Assistant - Gabriel (worked on our Readme.md file)
 -member_Prudence (worked on the structure,styling and readme.md file)
 -member_Oluebubechukwu (Did an exceptional work on the structure/syles and responsiveness with media query)
--member_Adorable (very supportive, also worked on part of the Html/css sections)
+-member_Sylvia (very supportive, also worked on part of the Html/css sections)
 -member_Mark (worked on the part of the landing page with html and css codes)
 -member_Elizabeth (made suggestions and contributed to achieving a well structured layout)
 
